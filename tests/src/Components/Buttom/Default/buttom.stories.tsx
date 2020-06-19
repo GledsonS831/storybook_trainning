@@ -1,6 +1,6 @@
 import React from "react";
 
-import { Default } from "./Default/Buttom";
+import { Default } from "./Buttom";
 
 export default {
   title: "Default",

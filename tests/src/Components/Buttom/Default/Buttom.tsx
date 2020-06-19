@@ -1,9 +1,13 @@
 import React from "react";
 
-export function Default() {
-  return (
-    <button>
-      <h1>click</h1>
-    </button>
-  );
+import * as st from './style'
+
+export function Default(){
+  return(
+    <st.container>
+      <st.content>
+        Default
+      </st.content>
+    </st.container>
+  )
 }
