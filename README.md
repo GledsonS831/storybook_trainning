@@ -4,7 +4,7 @@
 
 <h1 align="center">
 
-# Treinando StoryBook
+Treinando StoryBook
 
 </h1>
 
