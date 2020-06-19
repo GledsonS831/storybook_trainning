@@ -1,16 +1,14 @@
-# Treinando StoryBook
-
 <p align="center">    
  <img src="" />    
 </p>
 
 <h1 align="center">
 
-Título
+# Treinando StoryBook
 
 </h1>
 
-*descrição rápida sobre o sistema*
+_descrição rápida sobre o sistema_
 
 <p align="center">
 
@@ -23,14 +21,14 @@ Título
 ## 💻 Technology
 
 - 📁 ./
-    
-    📦 package(s)
 
-    - commands...
+  📦 package(s)
 
-    🎥 run aplication
+  - commands...
 
-    - commands...
+  🎥 run aplication
+
+  - commands...
 
 ## ✅ Accepted Commits
 
@@ -39,6 +37,6 @@ Título
 - `:wrench:` fix bug
 - `:x:` delete file
 
-----
+---
 
 i just love creating codes 💜
