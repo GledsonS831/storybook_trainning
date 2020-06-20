@@ -2,10 +2,6 @@ import React from "react";
 
 import { Default } from "./Buttom";
 
-export default {
-  title: "Default",
-};
+import { storiesOf } from "@storybook/react";
 
-export const comp = () => {
-  return <Default />;
-};
+storiesOf("Components", module).add("Default", () => <Default />);

@@ -8,4 +8,5 @@ export const container = styled.div`
 
 export const content = styled.p`
   color: red;
+  font-family: sans-serif
 `;
