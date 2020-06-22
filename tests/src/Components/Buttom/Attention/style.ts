@@ -1,7 +1,9 @@
+import React from "react";
+
 import styled from "styled-components";
 
 export const container = styled.div`
-  background-color: rgb( 108, 167, 173);
+  background-color: rgb(111, 100, 90);
   display: flexbox;
   justify-content: center;
   border-radius: 10px;
