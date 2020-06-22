@@ -14,6 +14,6 @@ export const content = styled.p`
   font-family: sans-serif;
   font-size: 20px;
   :hover{
-      color: rgb(201, 150, 70);
+      color: rgb(150, 20, 280);
   }
 `
