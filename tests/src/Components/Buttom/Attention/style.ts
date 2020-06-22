@@ -1,7 +1,9 @@
+import React from "react";
+
 import styled from "styled-components";
 
 export const container = styled.div`
-  background-color: rgb( 108, 167, 173);
+  background-color: rgb(80, 230, 60);
   display: flexbox;
   justify-content: center;
   border-radius: 10px;
@@ -11,4 +13,7 @@ export const container = styled.div`
 export const content = styled.p`
   font-family: sans-serif;
   font-size: 20px;
+  :hover{
+      color: rgb(150, 20, 280);
+  }
 `

@@ -2,11 +2,11 @@ import React from 'react';
 
 import * as st from './style';
 
-export const Default: React.FC = () => {
+export const Attention: React.FC = () => {
   return (
     <st.container>
       <st.content>
-        Default
+        Attention
       </st.content>
     </st.container>
   );
