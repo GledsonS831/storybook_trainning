@@ -12,9 +12,7 @@ Treinando StoryBook
 
 <p align="center">
 
-<img src=" https://img.shields.io/badge/" />
-
-<img src=" https://img.shields.io/badge/" />
+<img src=" https://img.shields.io/badge/Gledson-GITHUB-red" />
 
  </p>
 
