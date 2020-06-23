@@ -2,9 +2,11 @@ import React from 'react';
 
 import * as St from './style';
 
+interface Props {
+    text: string;
+}
 
-
-export const Buttom = () =>{
+export const Buttom: React.FC<Props>= ({text}) =>{
     return (
         <St.Container>
             <St.Content>
