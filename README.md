@@ -11,10 +11,8 @@ Treinando StoryBook
 *Repositório reservado para treinar a ferramenta StoryBook com react.*
 
 <p align="center">
-
-<img src=" https://img.shields.io/badge/Gledson-GITHUB-red" />
-
- </p>
+  <img src="https://img.shields.io/badge/GLEDSON-GITHUB-RED.svg" />
+</p>
 
 ## 💻 Technology
 
