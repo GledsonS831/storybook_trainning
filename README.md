@@ -8,7 +8,7 @@ Treinando StoryBook
 
 </h1>
 
-_descrição rápida sobre o sistema_
+*Repositório reservado para treinar a ferramenta StoryBook com react.*
 
 <p align="center">
 
