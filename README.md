@@ -32,6 +32,7 @@ Treinando StoryBook
 - `:pencil2:` add new function
 - `:wrench:` fix bug
 - `:x:` delete file
+- `:hammer:` refect code
 
 ---
 
