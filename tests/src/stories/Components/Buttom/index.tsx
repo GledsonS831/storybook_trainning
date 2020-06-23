@@ -4,13 +4,14 @@ import * as St from './style';
 
 interface Props {
     text: string;
+    type?: string;
 }
 
 export const Buttom: React.FC<Props>= ({text}) =>{
     return (
         <St.Container>
             <St.Content>
-                botao 1
+                {text}
             </St.Content>
         </St.Container>
     )
