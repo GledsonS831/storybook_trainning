@@ -8,15 +8,11 @@ Treinando StoryBook
 
 </h1>
 
-_descrição rápida sobre o sistema_
+*Repositório reservado para treinar a ferramenta StoryBook com react.*
 
 <p align="center">
-
-<img src=" https://img.shields.io/badge/" />
-
-<img src=" https://img.shields.io/badge/" />
-
- </p>
+  <img src="https://img.shields.io/badge/GLEDSON-GITHUB-RED.svg" />
+</p>
 
 ## 💻 Technology
 
@@ -36,6 +32,7 @@ _descrição rápida sobre o sistema_
 - `:pencil2:` add new function
 - `:wrench:` fix bug
 - `:x:` delete file
+- `:hammer:` refect code
 
 ---
 
